@@ -6,6 +6,8 @@ Alberto Agredano
 Virgilio Jesús Domínguez González<br>
 José Antonio Jimenez Bernaza<br>
 
+---
+
 ### ¿Qué IP has tenido que poner en el código del Cliente? ¿Es una IP pública o privada? 
 Hemos puesto esta IP:<br>
 <img width="501" height="30" alt="image" src="https://github.com/user-attachments/assets/d72a33ad-b4a4-40b1-a95a-8333e6623722" /><br><br>
