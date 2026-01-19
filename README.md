@@ -3,7 +3,7 @@
 Agustín Borreguero Castro<br>
 Adrián Bautista<br>
 Alberto <br>
-Virgilio<br>
+Virgilio Jesús Domínguez González<br>
 José Antonio<br>
 
 <br>
