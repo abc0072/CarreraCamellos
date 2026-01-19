@@ -2,7 +2,7 @@
 ## Integrantes
 Agustín Borreguero Castro<br>
 Adrián Bautista Ramos<br>
-Alberto <br>
+Alberto Agredano
 Virgilio Jesús Domínguez González<br>
 José Antonio Jimenez Bernaza<br>
 
